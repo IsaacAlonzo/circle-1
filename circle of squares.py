@@ -13,7 +13,7 @@ for i in range(30):
     square()
     bob.right(5)
 
-bob.color("red")
+bob.color("blue")
 for i in range(30):
     square()
     bob.right(5)
